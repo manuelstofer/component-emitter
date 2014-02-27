@@ -1,6 +1,6 @@
 {
-  "name": "emitter",
-  "repo": "component/emitter",
+  "name": "component-emitter",
+  "repo": "manuelstofer/component-emitter",
   "description": "Event emitter",
   "keywords": [
     "emitter",
